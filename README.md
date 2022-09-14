@@ -8,5 +8,7 @@
 - Couleur, style et opacité changeable du lipstick et blush
 - Item configurable
 
+xDev : https://discord.gg/Mm5PeNJpyY
+
 # Preview
 https://streamable.com/jynp5c
